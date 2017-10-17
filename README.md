@@ -6,6 +6,7 @@
 - [CV Development](#cv-development)
 - [LinkedIn](#linkedin)
 - [GitHub Usage](#github-usage)
+- [Job Applications](#job-applications)
 
 
 ## Personal Summary
@@ -63,6 +64,21 @@ Enthusiastic Machine Learning Engineer with experience in Data Science. Passiona
 > Add here the hierarchy of your GitHub Repositories.
 
 I need help in here :D 
+
+## Blog Post
+
+- Published:
+ - List 
+ - List 
+ - List 
+- Upcoming Blog Posts
+ - List
+
+## Job Applications
+This is the section to follow-up the job application process.
+
+- Job 1: [link]()
+- Job 2: [Link]()
 
 >> Will continue adding sections and content
 
