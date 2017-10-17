@@ -11,35 +11,16 @@
 
 ## Personal Summary
 
-> Add here which career path you want to follow.
-
 I want to go to academia and be a researcher.
-
-> Also add here what are the fields you would like to work on.
 
  I am interested in Machine Learning-Deep learning and Artificial intelligence
 
-> Add here what are you good at.
-
 Machine Learning, Self learner, Algorithm(not bad), Data Science
 
-> Combine all of them to create you personal summary that will be a concise paragraf that talks about you. (Something like a LinkedIn summary)
-
-Enthusiastic Machine Learning Engineer with experience in Data Science. Passionate about community and technology. Love to learn new things and experiment crazy projects :D 
+Enthusiastic Machine Learning Engineer with experience in Data Science. Passionate about community and technology. Love to learn new things and experiment crazy projects
 
 ## CV Development
 
-> Your CV is one of the most important key elements to prepare you for after-school. 
-
-> Prepare your CV, Updatable format (docx, latex, template), PDF of current version
-
-> Update your CV's version every month (It is okay not to change something every month but check with yourself every month to keep CV updated)
-
-> I personally recommend using Latex, because looks professional. I also recommend to have a GitHub Repository to store CV since Git has an automatic version control.
-
-> For example [myCV](https://github.com/eneskemalergin/My_CV) is on GitHub and developed using Latex 
-
-> If you have CV as a GitHub account, add the link under this section
 
 [PDF version](https://github.com/AhmetHamzaEmra/my_resume/blob/master/resume.pdf)
 
@@ -47,32 +28,44 @@ Enthusiastic Machine Learning Engineer with experience in Data Science. Passiona
 
 ## LinkedIn
 
-> Add here you LinkedIn account
-
-[Link](linkedin.com/in/ahmethamzaemra)
-
-> Always keep your LinkedIn updated
-
-> Follow Relevant Influencers, Schools, Organizations
-
-> Select an option to ve visible yourself to recruiters
-
-> In the Job section you should select your interest so the job offers and ads will come from those interests
+[LinkedIn](linkedin.com/in/ahmethamzaemra)
 
 ## GitHub Usage
 
-> Add here the hierarchy of your GitHub Repositories.
+- Machine Learning & AI 
+ - Deep-Learning-Specialization-Coursera
+  - Machine-Learning-Nanodegree
+  - Hands-on-Machine-Learning
+  - Machine-Learning-Coursera
+  - NAU-Autonomous-Car
+  - OpenaiGym
+  - Kaggle
+  - AI_Hackerrank
+  - Identify-Fraud-with-Machine-Learning-
+  - Deep-Learning-Experiments
 
-I need help in here :D 
+- Data analysis
+  - Data-Analyst-Nanodegree-
+  - Data_Wrangling_OpenStreetMap
+  - Explore-and-Summarize-Data-with-R
+  - data-visualization-with-d3-and-Dimple
+
+- Algorithms
+  - Algorithms
+  - Project-Euler
+- Others
+  - my_resume
+  - ahmethamzaemra.github.io
+  - Bathroom-Problem
 
 ## Blog Post
 
 - Published:
- - List 
- - List 
- - List 
+ - Machine Learning for Beginners! (intro for ml with regression)
+ - Switch! (book summary)
+ - Machine Learning Yearning! (Dr. NG's handbook summary)
 - Upcoming Blog Posts
- - List
+ - Math in coding & machine learning series
 
 ## Job Applications
 This is the section to follow-up the job application process.
